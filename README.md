@@ -13,7 +13,7 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 ## Output:
 
-[website using balasmiq.pdf](https://github.com/user-attachments/files/20540691/website.using.balasmiq.pdf)
+[exp4.pdf](https://github.com/user-attachments/files/23159546/exp4.pdf)
 
 
 ## Result:
